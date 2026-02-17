@@ -4,7 +4,8 @@ description: "AI ISP Researcher & Software Engineer"
 url: "https://jk-the-ko.github.io" # 본인의 GitHub 주소로 변경
 
 # 2. 테마 설정
-remote_theme: "cotes2020/jekyll-theme-chirpy"
+remote_theme: "pages-themes/minimal"
+google_analytics: ""
 
 # 3. 필수 플러그인 (image_24a2e6 에러 해결 핵심)
 plugins:
