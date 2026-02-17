@@ -40,9 +40,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em;
 }
 
-// 특히 ## 제목 아래의 구분선이 있다면 그 색상도 조절 (테마에 따라 다름)
 h2 {
-  border-bottom: 1px solid #333 !important;
+  border-bottom: 1px solid #444 !important; // 밑줄 색상 (기존 유지)
+  padding-bottom: 12px !important;        // ★ 텍스트와 밑줄 사이의 간격 (수치 조절 가능)
+  margin-bottom: 25px !important;         // ★ 밑줄과 아래 본문 사이의 간격
+  display: flex;                          // 아이콘과 텍스트 정렬 최적화
+  align-items: center;
 }
 
 // 링크 색상 (가시성이 좋은 청색 계열)
