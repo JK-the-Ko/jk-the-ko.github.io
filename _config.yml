@@ -3,6 +3,10 @@ description: "AI 연구원 및 소프트웨어 엔지니어"
 remote_theme: "pages-themes/cayman@v0.2.0"
 google_analytics: ""
 
-# 소셜 링크 (아이디만 적으세요)
+# 프로필 이미지 설정 (이미지 파일은 assets/images/ 폴더에 업로드하세요)
+avatar: "/assets/images/profile.jpg"
+
+# 소셜 링크 및 계정 정보
 github_username: "your-id"
 linkedin_username: "your-linkedin-id"
+google_scholar: "your-scholar-id" # 구글 스칼라 URL의 user= 뒷부분 ID 입력
