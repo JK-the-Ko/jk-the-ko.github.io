@@ -32,6 +32,19 @@ header {
   }
 }
 
+// 마크다운의 #, ##, ### 제목들을 흰색으로 변경
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+  font-weight: 700; // 제목의 두께 강조
+  margin-top: 1.5em; // 가시성을 위한 상단 여백 추가
+  margin-bottom: 0.5em;
+}
+
+// 특히 ## 제목 아래의 구분선이 있다면 그 색상도 조절 (테마에 따라 다름)
+h2 {
+  border-bottom: 1px solid #333 !important;
+}
+
 // 링크 색상 (가시성이 좋은 청색 계열)
 a {
   color: #64b5f6 !important;
