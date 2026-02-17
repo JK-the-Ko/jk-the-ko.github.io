@@ -10,6 +10,17 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
+// 볼드체(strong) 및 강조(b) 태그 색상 수정
+strong, b {
+  color: #ffffff !important; // 혹은 취향에 따라 조금 부드러운 #f0f0f0
+  font-weight: 700;          // 가독성을 위해 두께도 확실히 지정
+}
+
+// 만약 리스트(ul, li) 내의 볼드체도 문제가 있다면 아래도 추가
+li strong {
+  color: #ffffff !important;
+}
+
 // 상단 헤더 영역 (제목과 설명)
 header {
   border-bottom: 1px solid #333 !important;
