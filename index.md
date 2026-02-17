@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Home
+title: Profile
 ---
 
 <p align="center">
   <img src="{{ site.avatar | relative_url }}" width="200px" style="border-radius: 50%; border: 3px solid #159957;">
 </p>
 
-<h2 align="center">홍길동 (Gildong Hong)</h2>
+<h2 align="center">Jaekyun Ko</h2>
 <p align="center">
   <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
