@@ -26,6 +26,7 @@ title: Home
 
 ## 👤 About Me
 I am a passionate **AI ISP Researcher** and **Software Engineer** dedicated to solving complex real-world problems through innovative technology in Samsung Electronics (Mobile eXperience). 
+
 My research interests primarily lie in **[Topic 1]**, **[Topic 2]**, and **[Topic 3]**. Currently, I am focusing on [Briefly mention your current project or goal].
 
 ---
