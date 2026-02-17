@@ -1,0 +1,65 @@
+---
+---
+// 1. Minimal 테마의 기본 스타일을 가져옵니다.
+@import "{{ site.theme }}";
+
+// 2. 다크 모드 스타일 덮어쓰기
+body {
+  background-color: #121212 !important; // 짙은 배경
+  color: #cfd8dc !important;           // 부드러운 밝은 회색 글자
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+// 상단 헤더 영역 (제목과 설명)
+header {
+  border-bottom: 1px solid #333 !important;
+  h1 a {
+    color: #ffffff !important; // 사이트 제목은 완전 하얗게
+  }
+  p {
+    color: #90a4ae !important; // 부제목(설명)은 약간 흐리게
+  }
+}
+
+// 링크 색상 (가시성이 좋은 청색 계열)
+a {
+  color: #64b5f6 !important;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// 본문 내 코드 블록 및 인라인 코드
+code {
+  background-color: #263238 !important;
+  color: #ffcc80 !important;
+  border-radius: 4px;
+}
+
+pre {
+  background-color: #263238 !important;
+  border: 1px solid #37474f !important;
+  code {
+    background-color: transparent !important;
+  }
+}
+
+// 표(Table) - 논문 목록 가시성 향상
+table {
+  border-collapse: collapse;
+  width: 100%;
+  th, td {
+    border: 1px solid #37474f !important;
+    padding: 10px;
+  }
+  tr:nth-child(even) {
+    background-color: #1c1c1c !important;
+  }
+}
+
+// 하단 푸터
+footer {
+  color: #546e7a !important;
+  border-top: 1px solid #333 !important;
+}

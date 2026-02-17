@@ -15,7 +15,7 @@ plugins:
   - jekyll-feed
 
 # 4. 사용자 정보
-avatar: "/assets/profile.jpg"
+avatar: "/assets/images/profile.jpg"
 
 # 소셜 링크 및 계정 정보
 github_username: "JK-the-Ko"

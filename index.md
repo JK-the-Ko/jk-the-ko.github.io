@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="assets/profile.jpg" width="200px" style="border-radius: 0;">
+  <img src="assets/images/profile.jpg" width="200px" style="border-radius: 0;">
 </p>
 
 <h1 align="center">Jaekyun Ko</h1>
