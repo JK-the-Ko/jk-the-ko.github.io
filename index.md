@@ -48,6 +48,7 @@ My research interests primarily lie in **[Topic 1]**, **[Topic 2]**, and **[Topi
 ---
 
 ## 🛠 Technical Skills
+
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | Python, C++, Java, SQL |
