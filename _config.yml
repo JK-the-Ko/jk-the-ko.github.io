@@ -1,6 +1,6 @@
 title: "홍길동의 프로필"
 description: "AI 연구원 및 소프트웨어 엔지니어"
-remote_theme: "pages-themes/minimal"
+remote_theme: "pages-themes/cayman@v0.2.0"
 google_analytics: ""
 
 # 소셜 링크 (아이디만 적으세요)
