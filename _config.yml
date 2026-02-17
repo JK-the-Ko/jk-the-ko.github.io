@@ -1,3 +1,8 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [내 이름]의 프로필  # 브라우저 탭에 표시될 이름
+description: [한 줄 소개: 예: AI 연구원 및 소프트웨어 엔지니어]
+remote_theme: pages-themes/minimal # GitHub 기본 제공 깔끔한 테마
+google_analytics: # 필요하면 ID 입력
+
+# 소셜 링크 (테마에 따라 자동으로 아이콘이 생기기도 합니다)
+github_username: [내 깃허브 ID]
+linkedin_username: [내 링크드인 ID]
