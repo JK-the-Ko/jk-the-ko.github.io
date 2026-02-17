@@ -1,9 +1,20 @@
-title: "Jaekyun Ko"
-description: "AI ISP Researcher @ Samsung Electronics (Mobile eXperience)"
-remote_theme: "mmistakes/minimal-mistakes"
-google_analytics: ""
+# 1. 사이트 기본 정보 (따옴표를 꼭 쓰세요)
+title: "Jaekyun Ko's Portfolio"
+description: "AI ISP Researcher & Software Engineer"
+url: "https://jk-the-ko.github.io" # 본인의 GitHub 주소로 변경
 
-# 프로필 이미지 설정 (이미지 파일은 assets/images/ 폴더에 업로드하세요)
+# 2. 테마 설정
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # 혹은 "air", "contrast", "dark" 등 선택
+
+# 3. 필수 플러그인 (image_24a2e6 에러 해결 핵심)
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-feed
+
+# 4. 사용자 정보
 avatar: "/assets/images/profile.jpg"
 
 # 소셜 링크 및 계정 정보
