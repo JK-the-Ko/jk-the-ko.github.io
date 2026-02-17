@@ -7,7 +7,6 @@ title: Home
   <img src="assets/images/profile.jpg" width="200px" style="border-radius: 0;">
 </p>
 
-<h1 align="center">Jaekyun Ko</h1>
 <p align="center"><strong>AI ISP Researcher & Software Engineer</strong></p>
 
 <p align="center">
