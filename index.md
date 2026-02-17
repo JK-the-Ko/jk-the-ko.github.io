@@ -4,7 +4,7 @@ title: Home
 ---
 
 <p align="center">
-  <img src="{{ site.avatar | relative_url }}" width="180px" style="border-radius: 50%; border: 3px solid #159957; margin-bottom: 20px;">
+  <img src="assets/profile.jpg" width="200px" style="border-radius: 0;">
 </p>
 
 <h1 align="center">Jaekyun Ko</h1>
