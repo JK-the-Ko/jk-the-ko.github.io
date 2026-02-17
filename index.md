@@ -26,16 +26,16 @@ title: Home
 
 ---
 
-## 📚 Publications (게시 논문)
-*논문은 가장 최신순으로 정렬하며, 본인의 이름은 **Bold** 처리하는 것이 관례입니다.*
+## 📚 Publications
 
-### [2026]
-1. **[논문 제목]** **[내 이름]**, 저자2, 저자3.  
-   *International Conference on [학회 이름] (ICXX)* [[PDF](링크)] [[Code](링크)] [[Project Page](링크)]
+*본인의 이름은 **굵게** 표시하여 기여도를 나타냅니다.*
 
-### [2025]
-2. **[논문 제목]** 저자1, **[내 이름]**, 저자3.  
-   *Journal of [저널 이름]* [[Link](링크)] [[DOI](링크)]
+| Preview | Description |
+| :---: | :--- |
+| <a href="assets/pdf/paper1.pdf"><img src="assets/images/paper1-thumb.png" width="150px" alt="Paper 1 Thumbnail"></a> | **[논문 제목: 논문의 전체 제목을 여기에 적으세요]** <br> **홍길동**, 저자 2, 저자 3 <br> *International Conference on Learning Representations (ICLR), 2026* <br> [ [PDF](assets/pdf/paper1.pdf) ] [ [Code](https://github.com/yourid/project1) ] [ [Project](https://yourid.github.io/project1) ] |
+| <a href="assets/pdf/paper2.pdf"><img src="assets/images/paper2-thumb.png" width="150px" alt="Paper 2 Thumbnail"></a> | **[논문 제목: 두 번째 논문의 제목]** <br> 저자 1, **홍길동**, 저자 3 <br> *Nature Machine Intelligence, 2025* <br> [ [PDF](assets/pdf/paper2.pdf) ] [ [DOI](https://doi.org/xxxx) ] |
+
+---
 
 ---
 
