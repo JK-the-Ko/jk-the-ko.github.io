@@ -1,5 +1,5 @@
 # 1. 사이트 기본 정보 (따옴표를 꼭 쓰세요)
-title: "Jaekyun Ko's Portfolio"
+title: "Welcome!"
 description: "AI ISP Researcher & Software Engineer"
 url: "https://jk-the-ko.github.io" # 본인의 GitHub 주소로 변경
 
@@ -15,9 +15,9 @@ plugins:
   - jekyll-feed
 
 # 4. 사용자 정보
-avatar: "/assets/images/profile.jpg"
+avatar: "/assets/profile.jpg"
 
 # 소셜 링크 및 계정 정보
 github_username: "JK-the-Ko"
 linkedin_username: "jaekyun-ko"
-google_scholar: "NBs5cTMAAAAJ" # 구글 스칼라 URL의 user= 뒷부분 ID 입력
+google_scholar: "NBs5cTMAAAAJ"
