@@ -3,6 +3,26 @@ layout: default
 title: Home
 ---
 
+<p align="center">
+  <img src="{{ site.avatar | relative_url }}" width="200px" style="border-radius: 50%; border: 3px solid #159957;">
+</p>
+
+<h2 align="center">홍길동 (Gildong Hong)</h2>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://github.com/{{ site.github_username }}">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+
 # 👋 안녕하세요, [이름]입니다
 
 > **[현재 소속 및 역할]** > "복잡한 문제를 기술로 해결하는 것에 가치를 둡니다." (본인의 좌우명이나 핵심 문구)
